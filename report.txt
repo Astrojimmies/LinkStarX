@@ -1,0 +1,21 @@
+This needs time don't start last minute this takes lots of effort if you haven't done this before.
+
+you need a rf module of sorts to transmit raspberry pi's only transmit square waves and that can greatly interfere with other things in the area, and we don't want that.
+
+most of the base work is done from going from picture to binary to back.
+
+cloverleaf antenna can be used for transmitter antenna and a Yagi Uda antenna can be used for receiving both can be home made modern rogue has a video about making a Yagi Uda antenna this is a good starting point.
+
+a lower rf frequency transmits farther but this less being abled to be transfer the trick is to find a good mid point that's legal to use I found that somewhere in the 900mhz range worked good for distance could never test how well video would have worked.
+
+to livestream use a discord video call and a phone as android can screen share on discord if the video is transferred from the receiving Pi to a phone, mobile data can be used someone can set up OBS on a computer at home that sends a video to a YouTube livestream.
+
+work with multiple people it helps this gets very stressful for one person take any help you can get.
+
+use an amplifier to boost the signal 2 watts was theoretically sufficient for range at 900mhz.
+
+start this early if you want to do it, I can't stress this enough don't wait till the end cause if you can't you have to do something for the weight if you are within the final 2 weeks.
+
+please pick this up again even after I'm gone this has so much potential and makes for good bragging on university applications if you can get it done Just think you made satellite T.V.
+
+-Kenneth
